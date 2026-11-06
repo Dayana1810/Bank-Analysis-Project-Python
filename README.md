@@ -17,7 +17,7 @@ This project focuses on analyzing banking and loan datasets using Python to iden
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab
+- Google Colab/ Jupyter Notebook
 - Excel
 
 ## Project Process
