@@ -1,6 +1,5 @@
 # 	Banking Loan Analysis
 ## Banking and Loan Data Analysis using Python
-# Banking & Loan Data Analysis Using Python
 
 ## Project Overview
 This project focuses on analyzing banking and loan datasets using Python to identify financial trends, loan performance, customer patterns, and repayment activities.
