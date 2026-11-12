@@ -1,4 +1,4 @@
-# 	Banking Loan Analysis
+# 	Banking Loan Analysis 
 ## Banking and Loan Data Analysis using Python
 
 ## Project Overview
