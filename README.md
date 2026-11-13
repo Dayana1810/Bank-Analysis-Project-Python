@@ -39,4 +39,4 @@ This project focuses on analyzing banking and loan datasets using Python to iden
 - Loan Recovery Analysis
 
 ## Conclusion
-The project demonstrates how Python can transform banking and loan data into meaningful insights to support financial analysis and business decision-making.
+The project demonstrates how Python can transform banking and loan data into meaningful insights to support financial analysis and business decision-making. 
