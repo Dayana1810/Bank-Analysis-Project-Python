@@ -11,7 +11,7 @@ This project focuses on analyzing banking and loan datasets using Python to iden
 - Identify loan default and delinquency patterns.
 - Create visualizations to understand banking trends.
 
-## Tools & Technologies
+## Tools & Technologies 
 - Python
 - Pandas
 - NumPy
